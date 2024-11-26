@@ -38,5 +38,10 @@
       "id":"ca-app-pub-2334640401367012/9788385403",
       "is_show": true,
       "position": "random_insert"
+    },
+    {
+      "id":"ca-app-pub-2334640401367012/2360918571",
+      "is_show": true,
+      "position": "player_banner"
     }
   ]
