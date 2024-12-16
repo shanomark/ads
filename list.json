@@ -5,19 +5,44 @@
       "position": "home_native"
     },
     {
-      "id":"ca-app-pub-2334640401367012/9262548472",
-      "is_show": false,
+      "id":"ca-app-pub-2334640401367012/3590483616",
+      "is_show": true,
+      "position": "adult_list_native"
+    },
+    {
+      "id":"ca-app-pub-2334640401367012/3590483616",
+      "is_show": true,
+      "position": "adult_category_native"
+    },
+    {
+      "id":"ca-app-pub-2334640401367012/3590483616",
+      "is_show": true,
+      "position": "baby_list_native"
+    },
+    {
+      "id":"ca-app-pub-2334640401367012/3590483616",
+      "is_show": true,
+      "position": "baby_category_native"
+    },
+    {
+      "id":"ca-app-pub-2334640401367012/3590483616",
+      "is_show": true,
       "position": "player_native"
     },
     {
       "id":"ca-app-pub-2334640401367012/8031619056",
       "is_show": true,
-      "position": "launching_app"
+      "position": "app_open_hot"
+    },
+    {
+      "id":"ca-app-pub-2334640401367012/8031619056",
+      "is_show": true,
+      "position": "app_open_cold"
     },
     {
       "id":"ca-app-pub-2334640401367012/4237350875",
       "is_show": true,
-      "position": "select_sound_insert"
+      "position": "player_insert"
     },
     {
       "id":"ca-app-pub-2334640401367012/4237350875",
@@ -32,16 +57,21 @@
     {
       "id":"ca-app-pub-2334640401367012/4237350875",
       "is_show": true,
+      "position": "baby_list_insert"
+    },
+    {
+      "id":"ca-app-pub-2334640401367012/4237350875",
+      "is_show": true,
+      "position": "adult_list_insert"
+    },
+    {
+      "id":"ca-app-pub-2334640401367012/4237350875",
+      "is_show": true,
       "position": "history_insert"
     },
     {
       "id":"ca-app-pub-2334640401367012/4237350875",
       "is_show": true,
       "position": "random_insert"
-    },
-    {
-      "id":"ca-app-pub-2334640401367012/2360918571",
-      "is_show": true,
-      "position": "player_banner"
     }
   ]
