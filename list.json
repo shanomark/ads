@@ -27,6 +27,11 @@
     {
       "id":"ca-app-pub-2334640401367012/3590483616",
       "is_show": true,
+      "position": "collection_native"
+    },
+    {
+      "id":"ca-app-pub-2334640401367012/5644216137",
+      "is_show": true,
       "position": "player_native"
     },
     {
